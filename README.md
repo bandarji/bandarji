@@ -1,8 +1,8 @@
 ### Hello, World!
 
-Howdy 👋
+![Github stats](https://github-readme-stats.vercel.app/api?username=bandarji&theme=dark&show_icons=true)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=bandarji&theme=solarized-dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandarji&theme=dark&layout=compact)
 
 <!--
 **bandarji/bandarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
