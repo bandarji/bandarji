@@ -1,6 +1,8 @@
 ### Hello, World!
 
+<!--
 ![Github stats](https://github-readme-stats.vercel.app/api?username=bandarji&theme=dark&show_icons=true)
+-->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandarji&theme=dark&layout=compact)
 
