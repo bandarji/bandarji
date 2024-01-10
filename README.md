@@ -2,7 +2,7 @@
 
 ### Programming
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandarji&theme=dark&layout=compact&hide=Assembly,CSS,Pascal,HTML,Javascript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandarji&theme=dark&layout=compact&hide=Assembly,CSS,Pascal,HTML,Javascript,VBScript)
 
 These days, I mainly code with Go or Python.
 
