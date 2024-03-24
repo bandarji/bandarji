@@ -24,15 +24,10 @@ These days, I mainly code with Go or Python.
 
 ### Other
 
-- Current Books
-  - [Rovers](https://a.co/d/7tooFRp), by Richard Lange
-  - [Twittoons](https://a.co/d/de4u0vB), by Manu Cornet
-- Recent Top 5 Music
-  - "[Formaldehyde](https://youtu.be/2rGNm2RwLg8)", Clowns
-  - "[Candle Power](https://youtu.be/4fO954zQ3Us)", Steve Vai
-  - "[Brutiful](https://youtu.be/OBRekIzyzcA)", Codefendants
-  - "[Hey There, Begonia](https://youtu.be/f0QwRqkF-7A)", PEARS
-  - "[B-273](https://youtu.be/aFIeSE0TbaQ)", Tommy and June
+I own two short-term vacation rental properties on the Big Island of Hawaii.
+
+- [Kona House of Palms](https://konahop.com/)
+- [Sunrise Hale](https://sunrisehale.com/)
 
 <!--
 **bandarji/bandarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
