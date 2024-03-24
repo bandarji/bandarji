@@ -22,7 +22,14 @@ These days, I mainly code with Go or Python.
 - DreamWorks Dedicated Unit, Bangalore, India
   - Senior Systems Engineer (2008-2010)
 
-### Other
+### Hiring SREs
+
+Upstart has open SRE positions!
+
+- [Senior Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808620)
+- [Principal Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808622)
+
+### Vacation in Hawaii
 
 I own two short-term vacation rental properties on the Big Island of Hawaii.
 
