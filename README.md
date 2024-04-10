@@ -6,8 +6,29 @@
 
 These days, I mainly code with Go or Python.
 
-### Work (Truncated at 2010)
+### Hiring SREs
 
+Upstart has open SRE positions!
+
+- [Senior Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808620)
+- [Principal Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808622)
+
+### Work History (Truncated at 2010)
+
+[LinkedIn](https://linkedin.com/in/bandarji)
+
+| Company | Position | Start | End |
+| :--- | :--- | ---: | ---: |
+| Upstart | Principal SRE | 2023 | Now |
+| Twitter | Staff SRE, Storage Tech Lead | 2020 | 2023 |
+| | SRE Manager, Distributed and In-Memory Storage | 2018 | 2020 |
+| Box | Staff SRE, Edge Performance | 2017 | 2018 |
+| DreamWorks Animation | Manager, Platform Engineering | 2015 | 2017 |
+| | Principal Engineer | 2011 | 2015 |
+| | Staff Systems Engineer | 2007 | 2011 |
+| DreamWorks Dedicated Unit | Systems Architect | 2008 | 2010 |
+
+<!--
 - Upstart
   - Principal Site Reliability Engineer (2023-Present)
 - Twitter
@@ -18,16 +39,10 @@ These days, I mainly code with Go or Python.
 - DreamWorks Animation
   - Manager, Platform Engineering (2015-2017)
   - Principal Engineer (2011-2015)
-  - Senior Network Engineer (2007-2011)
+  - Staff Network Engineer (2007-2011)
 - DreamWorks Dedicated Unit, Bangalore, India
-  - Senior Systems Engineer (2008-2010)
-
-### Hiring SREs
-
-Upstart has open SRE positions!
-
-- [Senior Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808620)
-- [Principal Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808622)
+  - Systems Architect (2008-2010)
+-->
 
 ### Vacation in Hawaii
 
