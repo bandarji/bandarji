@@ -6,13 +6,6 @@
 
 These days, I mainly code with Go or Python.
 
-### Hiring SREs
-
-Upstart has open SRE positions!
-
-- [Senior Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808620)
-- [Principal Site Reliability Engineer](https://www.upstart.com/careers/69255/apply?gh_jid=5808622)
-
 ### Work History (Truncated at 2010)
 
 [LinkedIn](https://linkedin.com/in/bandarji)
@@ -44,6 +37,7 @@ Upstart has open SRE positions!
   - Systems Architect (2008-2010)
 -->
 
+<!--
 ### Vacation in Hawaii
 
 I own two short-term vacation rental properties on the Big Island of Hawaii.
@@ -51,7 +45,6 @@ I own two short-term vacation rental properties on the Big Island of Hawaii.
 - [Kona House of Palms](https://konahop.com/)
 - [Sunrise Hale](https://sunrisehale.com/)
 
-<!--
 **bandarji/bandarji** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
