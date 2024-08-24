@@ -13,12 +13,11 @@ These days, I mainly code with Go or Python.
 | Company | Position | Start | End |
 | :--- | :--- | ---: | ---: |
 | Upstart | Principal SRE | 2023 | Now |
-| Twitter | Staff SRE, Storage Tech Lead | 2020 | 2023 |
-| | SRE Manager, Distributed and In-Memory Storage | 2018 | 2020 |
+| Twitter | Staff SRE, Storage Tech Lead | 2018 | 2023 |
 | Box | Staff SRE, Edge Performance | 2017 | 2018 |
-| DreamWorks Animation | Manager, Platform Engineering | 2015 | 2017 |
+| DreamWorks Animation | Platform Engineering Manager | 2015 | 2017 |
 | | Principal Engineer | 2011 | 2015 |
-| | Staff Network Engineer | 2007 | 2011 |
+| | Staff Network Architect | 2007 | 2011 |
 
 <!--
 - Upstart
