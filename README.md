@@ -18,7 +18,7 @@ These days, I mainly code with Go or Python.
 | Box | Staff SRE, Edge Performance | 2017 | 2018 |
 | DreamWorks Animation | Platform Engineering Manager | 2015 | 2017 |
 | | Principal Engineer | 2011 | 2015 |
-| | Engineering Manager | 2008 | 2010 |
+| | Engineering Manager | 2008 | 2011 |
 | | Senior Network Engineer | 2007 | 2008 |
 | MobiTV | Systems Engineering Manager | 2005 | 2007 |
 | First Victoria | System Architect | 2000 | 2005 |
