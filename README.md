@@ -8,22 +8,9 @@ These days, I mainly code with Go or Python.
 
 ### Work History
 
-[LinkedIn](https://linkedin.com/in/bandarji)
+Principal SRE at Upstart. Previously at Twitter, Box and DreamWorks Animation.
 
-| Company | Position | Start | End |
-| :--- | :--- | ---: | ---: |
-| Upstart | Principal SRE | 2023 | Now |
-| Twitter | Staff SRE, Storage Tech Lead | 2020 | 2023 |
-| | SRE Manager, Realtime Storage | 2018 | 2020 |
-| Box | Staff SRE, Edge Performance | 2017 | 2018 |
-| DreamWorks Animation | Platform Engineering Manager | 2015 | 2017 |
-| | Principal Engineer | 2011 | 2015 |
-| | Engineering Manager | 2008 | 2011 |
-| | Senior Network Engineer | 2007 | 2008 |
-| MobiTV | Systems Engineering Manager | 2005 | 2007 |
-| First Victoria | System Architect | 2000 | 2005 |
-| Information Alliance | Software Engineering Manager | 1995 | 2000 |
-| Bit Solutions | Software Developer | 1992 | 1995 |
+[LinkedIn](https://linkedin.com/in/bandarji)
 
 ### Other Work
 
