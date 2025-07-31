@@ -6,15 +6,6 @@
 
 These days, I mainly code with Go or Python.
 
-### Work History
+### News
 
-Principal SRE at Upstart. Previously at Twitter, Box and DreamWorks Animation.
-
-[LinkedIn](https://linkedin.com/in/bandarji)
-
-### Other Work
-
-I own two short-term vacation rental properties on the Big Island of Hawaii.
-
-- [Kona House of Palms](https://konahop.com/)
-- [Sunrise Hale](https://sunrisehale.com/)
+I decided to take one year off, starting July 2025.
