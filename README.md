@@ -1,16 +1,25 @@
 ## Hello, World!
 
-### Programming
+Howdy, from **Norway**!
 
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bandarji&theme=dark&layout=compact&hide=Assembly,CSS,Pascal,HTML,Javascript,VBScript,VBA) -->
+## One Year Hiatus
 
-These days, I mainly code with Go or Python.
+I decided to take one year off so I could travel the world with my wife.
 
-### News
+### Visited
 
-I decided to take one year off, starting July 2025. For fun, I plan to solve all
-the [Advent of Code](https://adventofcode.com/) puzzles, first using Go, then
-possibly Rust (I have solved several days with that language). Check out
-my [repository](https://github.com/bandarji/aoc) -- I welcome comments.
+Mexico, South Africa, Zimbabwe, Zambia, Botswana, Australia, Japan, Germany,
+Netherlands, England, Norway
 
-![](https://komarev.com/ghpvc/?username=bandarji&label=2026+VIEWS)
+### Remaining
+
+Ireland, Scotland, Iceland, Faroe Islands, Canada
+
+## Programming
+
+These days, I mainly code with Go or Python. I finally have (some) time to
+work on the [Advent of Code](https://adventofcode.com/) puzzles. I plan to
+write solutions using Go for all the puzzles, then revisit with Rust and
+Python. I shall store everything in
+[this repository](https://github.com/bandarji/aoc), if you want to follow
+along.
