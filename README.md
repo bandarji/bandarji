@@ -1,6 +1,6 @@
 ## Hello, World!
 
-Howdy, from **Norway**!
+Howdy, from **Cotswolds, England**!
 
 ## One Year Hiatus
 
