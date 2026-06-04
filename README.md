@@ -9,11 +9,11 @@ I decided to take one year off so I could travel the world with my wife.
 ### Visited
 
 Mexico, South Africa, Zimbabwe, Zambia, Botswana, Australia, Japan, Germany,
-Netherlands, England, Norway
+Netherlands, England, Norway, Wales
 
 ### Remaining
 
-Ireland, Scotland, Iceland, Faroe Islands, Canada
+Greece, Turkey, Ireland, Scotland, Iceland, Faroe Islands, Canada
 
 ## Programming
 
