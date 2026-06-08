@@ -1,6 +1,6 @@
 ## Hello, World!
 
-Howdy, from **Cotswolds, England**!
+Howdy, from **Kos, Greece**!
 
 ## One Year Hiatus
 
@@ -9,11 +9,11 @@ I decided to take one year off so I could travel the world with my wife.
 ### Visited
 
 Mexico, South Africa, Zimbabwe, Zambia, Botswana, Australia, Japan, Germany,
-Netherlands, England, Norway, Wales
+Netherlands, England, Norway, Wales, Greece
 
 ### Remaining
 
-Greece, Turkey, Ireland, Scotland, Iceland, Faroe Islands, Canada
+Turkey, Ireland, Scotland, Iceland, Faroe Islands, Canada
 
 ## Programming
 
