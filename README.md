@@ -1,6 +1,6 @@
 ## Hello, World!
 
-Howdy, from **Kos, Greece**!
+Howdy, from **Iceland**!
 
 ## One Year Hiatus
 
@@ -9,11 +9,15 @@ I decided to take one year off so I could travel the world with my wife.
 ### Visited
 
 Mexico, South Africa, Zimbabwe, Zambia, Botswana, Australia, Japan, Germany,
-Netherlands, England, Norway, Wales, Greece
+Netherlands, England, Norway, Wales, Greece, Ireland, Northern Ireland,
+Scotland
+
+Unfortunately, our ship could not dock in Faroe Islands, so we had to skip
+that part of Denmark.
 
 ### Remaining
 
-Turkey, Ireland, Scotland, Iceland, Faroe Islands, Canada
+Iceland, Cananda, then back home...
 
 ## Programming
 
