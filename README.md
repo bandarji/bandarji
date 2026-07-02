@@ -1,6 +1,6 @@
 ## Hello, World!
 
-Howdy, from **Iceland**!
+Howdy, from **Halifax, Nova Scotia, Canada**!
 
 ## One Year Hiatus
 
@@ -10,14 +10,13 @@ I decided to take one year off so I could travel the world with my wife.
 
 Mexico, South Africa, Zimbabwe, Zambia, Botswana, Australia, Japan, Germany,
 Netherlands, England, Norway, Wales, Greece, Ireland, Northern Ireland,
-Scotland
+Scotland, Iceland, Canada
 
 Unfortunately, our ship could not dock in Faroe Islands, so we had to skip
-that part of Denmark.
-
-### Remaining
-
-Iceland, Cananda, then back home...
+that part of Denmark. And, due to an issue with the propulsion system, our
+ship ended up delayed in Halifax. Our updated itinerary has us skipping
+New York City and Charleston. Instead, we enter Boston, then head to Miami,
+where we disembark.
 
 ## Programming
 
