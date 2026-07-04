@@ -1,28 +1,19 @@
 ## Hello, World!
 
-Howdy, from **Halifax, Nova Scotia, Canada**!
+Howdy!
 
 ## One Year Hiatus
 
-I decided to take one year off so I could travel the world with my wife.
+**COMPLETE**
 
-### Visited
+July 2025 -> present day: eighteen foreign countries. Joined friends and
+family in multiple places, and made great friends along the way. Took two
+cruises, one to the fjords of Norway and one across the Atlantic, to get back
+home. Went on my first safari, petted kangaroos and bought some punk records
+in Japan. Wrote code with family in the Cotswolds, then spent one week at a
+Greek resort with more family. The year of travel reset my energy and now I
+plan to find a great company to contribute my time and effort to.
 
-Mexico, South Africa, Zimbabwe, Zambia, Botswana, Australia, Japan, Germany,
-Netherlands, England, Norway, Wales, Greece, Ireland, Northern Ireland,
-Scotland, Iceland, Canada
+While not real time, I have a [travel blog][blog].
 
-Unfortunately, our ship could not dock in Faroe Islands, so we had to skip
-that part of Denmark. And, due to an issue with the propulsion system, our
-ship ended up delayed in Halifax. Our updated itinerary has us skipping
-New York City and Charleston. Instead, we enter Boston, then head to Miami,
-where we disembark.
-
-## Programming
-
-These days, I mainly code with Go or Python. I finally have (some) time to
-work on the [Advent of Code](https://adventofcode.com/) puzzles. I plan to
-write solutions using Go for all the puzzles, then revisit with Rust and
-Python. I shall store everything in
-[this repository](https://github.com/bandarji/aoc), if you want to follow
-along.
+[blog]: https://bandarji.github.io/categories/travel/
