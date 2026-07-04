@@ -4,8 +4,7 @@ Howdy!
 
 ## One Year Hiatus
 
-> [!TIP]
-> COMPLETE
+$\color{lightgreen}{\text{COMPLETE}}$
 
 Highlights from the past one year:
 
