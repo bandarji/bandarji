@@ -4,7 +4,7 @@ Howdy!
 
 ## One Year Hiatus
 
-$\color{lightgreen}{\text{COMPLETE}}$
+**COMPLETE**
 
 Highlights from the past one year:
 
