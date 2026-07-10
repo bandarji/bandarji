@@ -1,27 +1,28 @@
-## Hello, World!
-
-Howdy!
-
-## One Year Hiatus
-
-**COMPLETE**
-
-Highlights from the past one year:
-
-- Parked for an afternoon surrounded by painted dogs, in Botswana.
-- Got to feed and pet roos in Australia.
-- Rode local trains in Japan.
-- Rented a boat and enjoyed Netherland canals.
-- Wrote some code with a college student family member in the Cotswolds.
-- Cruised Norway's fjords and visited the northernmost point in Europe.
-- Spent one week with family at a Greek resort.
-- Experienced Europe-to-USA travel by ship.
-
-While not real time, I have a [travel blog][blog].
-
-## Ready To Work
-
-Looking for a remote position in technical program management, engineering
-management or site reliability engineering.
-
-[blog]: https://bandarji.github.io/categories/travel/
+```yaml
+name: Sean Jain Ellis
+location: Reno, Nevada, USA
+roles:
+  - title: Site Reliability Engineer
+  - title: Engineering Manager
+  - title: Program Manager
+history:
+  - company: Upstart, 2023-2025
+  - company: Twitter, 2018-2023
+  - company: Box, 2017-2018
+  - company: DreamWorks Animation, 2007-2017
+  - company: First Victoria National Bank, 2000-2005
+  - company: Information Alliance, 1992-2000
+skills:
+  development:
+    - Go
+    - Python
+    - Rust
+  systems:
+    - Linux
+    - Kubernetes
+    - Terraform
+  networking:
+    - application delivery (load balancers, smart proxies)
+    - routing (OSPF, BGP, IS-IS)
+    - switching (STP, TRILL)
+```
