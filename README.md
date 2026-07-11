@@ -1,28 +1,25 @@
 ```yaml
 name: Sean Jain Ellis
 location: Reno, Nevada, USA
-roles:
-  - title: Site Reliability Engineer
-  - title: Engineering Manager
-  - title: Program Manager
 history:
-  - company: Upstart, 2023-2025
-  - company: Twitter, 2018-2023
-  - company: Box, 2017-2018
-  - company: DreamWorks Animation, 2007-2017
-  - company: First Victoria National Bank, 2000-2005
-  - company: Information Alliance, 1992-2000
+  - Upstart: Principal Site Reliability Engineer, 2023-2025
+  - Twitter:
+    - Staff Reliability Engineer: 2020-2023
+    - Engineering Manager: 2018-2020
+  - Box: Staff Site Reliability Engineer, 2017-2018
+  - DreamWorks Animation:
+    - Nova Rendering SaaS Platform Engineering Manager: 2015-2017
+    - Principal Engineer: 2011-2015
+    - Bengaluru Dedicated Unit Engineering Manager: 2008-2011
+    - Senior Network Engineer: 2007-2008
+  - MobiTV: Engineering Manager, 2005-2007
+  - First Victoria National Bank: System Architect, 2000-2005
+  - Information Alliance:
+    - Software Engineering Manager: 1995-2000
+    - Software Developer: 1992-1995
+1992-2000
 skills:
-  development:
-    - Go
-    - Python
-    - Rust
-  systems:
-    - Linux
-    - Kubernetes
-    - Terraform
-  networking:
-    - application delivery (load balancers, smart proxies)
-    - routing (OSPF, BGP, IS-IS)
-    - switching (STP, TRILL)
+  development: ["Go", "Python", "Rust"]
+  systems: ["Linux", "Kubernetes", "Terraform"]
+  networking: ["L2-L7", "BGP", "OSPF", "IS-IS", "load balancers", "HTTP"]
 ```
