@@ -7,7 +7,7 @@ flowchart TD
     E --> F[Assemble dict with packages as keys and file counts as values]
     F --> G[Report the slice of up to ten packages after sort by file count]
 
-    C -->|No| A
+    C -->|No| A[Start]
 ```
 
 
