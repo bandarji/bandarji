@@ -1,3 +1,18 @@
+```mermaid
+flowchart TD
+    A[Start] --> B[Select Debian Mirror]
+    B --> C{Successful content pull from mirror?}
+    C -->|Yes| D[Fetch Contents gzip file for architecture]
+    D --> E[Process each row of content, split by newline]
+    E --> F[Assemble dict with packages as keys and file counts as values]
+    F --> G[Report the slice of up to ten packages after sort by file count]
+
+    C -->]No| A
+    H --> G
+```
+
+
+
 ```yaml
 name: Sean Jain Ellis
 location: Reno, Nevada, USA
