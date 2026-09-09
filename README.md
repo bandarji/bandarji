@@ -2,6 +2,8 @@
 name: Sean Jain Ellis
 location: Reno, Nevada, USA
 history:
+  Totally Geek:
+    2025-now: Software Developer
   Upstart:
     2023-2025: Principal Site Reliability Engineer
   Twitter:
